@@ -1,1 +1,3 @@
 # CSE220-SUMMER-2026
+
+This Repository contains the assignment solutions for CSE220 Lab of Summer 2026 semester.
